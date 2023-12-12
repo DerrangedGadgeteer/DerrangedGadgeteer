@@ -10,7 +10,9 @@ Problem: Nylon isn't gonna be good at temperatures like inside an engine.
 
 Idea: Use Something like PEEK which IS good to those temps.
 
-Problem: does PEEK even come in fabric?
+Problem: does PEEK even come in fabric? 
+
+> Answer: Yes, and holy shit is it aspensive!
 
 Idea: Kevlar comes in fabric.  And Kevlar is thermoplastic so it could concievably work.
 
