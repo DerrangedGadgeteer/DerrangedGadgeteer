@@ -25,11 +25,11 @@ Custom Rat Rod pickup built for road-course performance.  Junkyard and improvise
 - Set up for maximum servicability
 #### Checklist
 - 1969 Ford F100 Short Bed, Heavy patina
-  -- [x] Title work
-  -- [x] Clean out cab
-  -- [ ] Clean out bed
-  -- [ ] Clean mold and crap off outside
-  -- [ ] Clean undercarriage
+-   [x] Title work
+-   [ ]  Clean out cab
+-   [ ]  Clean out bed
+-   [ ] Clean mold and crap off outside
+-   [ ] Clean undercarriage
   -- [ ] Degrease engine bay
   -- [ ] Remove engine & transmission
   -- [ ] Evaluate and label factory wiring harness
