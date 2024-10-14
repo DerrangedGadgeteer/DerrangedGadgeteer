@@ -13,14 +13,39 @@ Top priority is refurbishing a 200-year-old farmhouse for my and my dearest to m
 ## 1969 F100 Track Truck
 Custom Rat Rod pickup built for road-course performance.  Junkyard and improvised parts, Maximum fun for minimum dollars.
 
+[F100 Road Course Racer Repo!](https://github.com/DerrangedGadgeteer/F100RoadCourseRacer)
+
+## 6x P100 AI/GPU Compute Server
+2nd gen AMD Threadripper-powered GPU compute server, running 6 Nvidia P100 datacenter GPU's modified for water cooling, all in a modified rackmount case.
+
+> Details and documentation coming soon
+
+## Cincinnati #2 Milling Machine
+As a chronic sufferer from "Old Iron Disease." What by rights *should* be a tool for completing other projects, is a bit of a project unto itself.  Modifying it, and making it more usable for my current workflow.  
+
+[Cincinnati #2 Vertical Milling Machine Repo!](https://github.com/DerrangedGadgeteer/CincinnatiNo2)
+
+# Back Burner Projects:
+
+## 1963 Plymouth Valiant Drag Racer
+
+## Genista Mech Cosplay
+Human-sized cosplay of the mech "Genista" from the Anime series "Darling in the Franxx"
+
+[Genista Cosplay Repo!](https://github.com/DerrangedGadgeteer/GenistaMechCosplay)
+
+## Parabellum inc. Tabletop War Game
+[Parabellum inc. Repo!](https://github.com/DerrangedGadgeteer/Parabellum-Inc)
+
+## 3d Print - to - metal casting workflow
+
+## Abberant Gothic
+GZDoom-based shooter/detective game set in a post-apocalyptic supernatural south
+
+[Abberant Gothic Repo!](https://github.com/DerrangedGadgeteer/AbberantGothic)
+
 
 <!---
 DerrangedGadgeteer/DerrangedGadgeteer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-| Testing Table | Blah | Extra Blah |
-|:--|:--:|--:|
-|blah|megablah|foo|
-| what | even | is |
-
