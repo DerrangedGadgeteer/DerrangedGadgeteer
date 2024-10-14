@@ -25,18 +25,18 @@ Custom Rat Rod pickup built for road-course performance.  Junkyard and improvise
 - Set up for maximum servicability
 #### Checklist
 - 1969 Ford F100 Short Bed, Heavy patina
---   [x] Title work
---   [ ]  Clean out cab
---   [ ]  Clean out bed
---   [ ] Clean mold and crap off outside
---   [ ] Clean undercarriage
-  Degrease engine bay
-  -- [ ] Remove engine & transmission
-  -- [ ] Evaluate and label factory wiring harness
-  -- [ ] Pull major eyesore dents
-  -- [ ] Repair structural rust
-  -- [ ] Patch superficial rust with rust-colored resin
-  -- [ ] Windshield replacement
+-   [x] Title work
+-   [ ]  Clean out cab
+-   [ ]  Clean out bed
+-   [ ] Clean mold and crap off outside
+-   [ ] Clean undercarriage
+- [ ]  Degrease engine bay
+- [ ] Remove engine & transmission
+- [ ] Evaluate and label factory wiring harness
+- [ ] Pull major eyesore dents
+- [ ] Repair structural rust
+- [ ] Patch superficial rust with rust-colored resin
+- [ ] Windshield replacement
 - ~2000 Ford Crown Victoria Police Interceptor front suspension assembly
   -- [ ] Prepare a navigable reference resource for the procedure
   -- [ ] Remove Fenders, Grill, and Radiator Support
