@@ -3,6 +3,7 @@
 - 📫 How to reach me: https://youtube.com/user/DerrangedGadgeteer
 
 # Front-Burner Projects:
+(Projects I currently work on day-to-day currently)
 
 ## Remodeling the Estate House
 
@@ -54,8 +55,24 @@ GZDoom-based shooter/detective game set in a post-apocalyptic supernatural south
 
 [Abberant Gothic Repo!](https://github.com/DerrangedGadgeteer/AbberantGothic)
 
+## The Cartographer
+### (Caverns of the Damned)
+Roguelike, pixel art fantasy RPG based on games like The Dungeon Revealed, and Castle of the Winds.
+
+[The Cartographer Repo!](https://github.com/DerrangedGadgeteer/The-Cartographer)
+
+
 # Pantry Projects:
 (Projects which have not had significant physical work done, nor have significant material on hand, but have some research or notes prepared for them.)
+
+## Island in the Void
+Scifi First-Person-Shooter Centered on using the harsh environment of a distant space station to turn the tables on an invading force.  Save everyone you can, and unravel the mystery of the derelict ship St. Ijesold.
+
+[Island in the Void Repo!](https://github.com/DerrangedGadgeteer/Island-in-the-Void)
+
+## BACKYARD OUTLAW KART RACING MAYHEM 1997
+Custom kart builder and kart racing game, set against the backdrop of a decaying suburban town in the late 90's.  Build your racing Kart in your backyard, from whatever parts you can scrounge, and race all through town, pursued by security, school administrators, HOA Karens, and angry gardeners alike.
+
 <!---
 DerrangedGadgeteer/DerrangedGadgeteer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
